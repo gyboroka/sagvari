@@ -1,0 +1,103 @@
+body{
+    width: 100%;
+    padding: 40px;
+}
+.outsideBox1{
+   
+    border: 15px, grey;
+    border-radius: 5px ;
+    border-style: dotted;
+    padding: 5px;
+    float: left;
+    width: 120px;
+}
+.outsideBox{
+    
+    border: 15px, grey;
+    border-radius: 5px ;
+    border-style: dotted;
+    padding: 5px;
+    float: left;
+    width: 120px;
+}
+.column1{
+    padding-left: 70px;
+    padding-top: 10px;
+
+}
+.column2{
+    padding-right: 60px;
+}
+.column {
+    float: left;
+    width: 33.30%;
+    border-radius: 5px;
+    padding-top: 5px;
+    box-shadow: 2px;
+
+  }
+#littleRight{
+    padding-left: 2px;
+}
+.numbers{
+    border: 2px;
+    border-radius: 5px;
+    width: 30px;
+    background-color: blueviolet;
+    padding: 3px;
+    text-align: center;
+}
+.c{
+    width: 59%;
+    float: left;
+    padding-top: 5px;
+
+}
+.c2{
+    width: 59%;
+    float: right;
+    padding-top: 5px;
+    padding-right: 9px;
+}
+.C{
+    width: 100%;
+    border: 2px;
+    border-radius: 5px;
+    background-color: rgb(221, 224, 7);
+    padding: 3px;
+    text-align: center;
+
+}
+#test2{
+    width:100%; 
+    border: 10px;
+    background-color: red;
+    text-align: center;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 3px 3px gray;
+    padding: 2px;
+}
+#test2Padding{
+    padding-left: 70px;
+    width: 260px;
+}
+.keypad{
+    width: 118px; 
+    border: 10px;
+    border-radius: 5px;
+    background-color: green;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    box-shadow: 2px;
+    box-shadow: 3px 3px gray;
+
+}
+.column0 {
+    float: right;
+    width: 33.30%;
+    padding-top: 5px;
+    box-shadow: 2px;
+
+  }
